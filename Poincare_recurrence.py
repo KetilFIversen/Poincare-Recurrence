@@ -286,7 +286,7 @@ if __name__ == '__main__':
     parent_dir = os.getcwd()
     in_dir     = '\\Indata_images\\'
     out_dir    = '\\Images\\'
-    image_file = 'anim.jpg'
+    image_file = 'Poinman.jpg'
     N = 1000
     transform_list = [1]
     duration = 0.1
